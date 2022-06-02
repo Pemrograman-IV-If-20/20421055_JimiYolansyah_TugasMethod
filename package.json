@@ -1,0 +1,14 @@
+{
+  "name": "latihan2",
+  "version": "1.0.0",
+  "description": "belajar API dengan nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimi Yolansyah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
